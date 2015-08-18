@@ -6,3 +6,25 @@ So this little script logs in for me and scrapes the HTML for how much data I've
 
 Nifty.
 
+# Installation
+
+```
+pip install requests
+pip install beautifulsoup4
+```
+
+# Configuration
+
+```
+cp settings.py.default settings.py
+```
+
+Edit settings.py with your credentials
+
+# Run
+
+```
+python webafrica.py
+```
+
+
