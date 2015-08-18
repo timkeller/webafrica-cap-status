@@ -1,0 +1,18 @@
+
+# First things first, rename me to settings.py
+
+# Your DSL Console credentials
+username = ""
+password = ""
+
+# Your numeric Account ID
+#
+# How to get this?
+#
+# 1. Visit https://www.webafrica.co.za/myservices.php?pagetype=adsl
+# 2. Log in
+# 3. Mouse-over the [View Details] button and note the url, 
+#    it'll be in the format "https://www.webafrica.co.za/clientarea.php?action=productdetails&id=123456"
+# 4. Your Account_ID is the 'ID' given. For example: 123456
+
+account_id = ""
